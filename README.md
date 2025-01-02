@@ -206,7 +206,6 @@ This bar chart compares sales and quantities across shipping modes. Standard Cla
 The KPI visual highlights the profit margin for Technology (17.4%) and Office Supplies (17.04%, up by 2.12%). These figures help assess financial health, showing where profitability is growing or needs improvement.
 
 10. Geographical Insights:
-
 The map visual provides a geographic view of sales performance. Major cities like New York and Los Angeles appear as hotspots, highlighting markets with the highest sales. This insight supports decisions on resource allocation or regional marketing.
 ---
 ## Results
